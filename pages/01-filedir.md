@@ -1,6 +1,5 @@
 ---
-layout: lesson
-root: ../..
+layout: slides
 title: Files and Directories
 ---
 
