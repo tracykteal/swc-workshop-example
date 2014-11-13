@@ -105,7 +105,14 @@ Inside that directory are several other directories:
 `tmp` (for temporary files that don't need to be stored long-term),
 and so on:
 
+one
 ![Filesystem](/pages/img/filesystem.svg)
+
+two
+![filesystem](img/filesystem.svg)
+
+three
+![filesystem](https://github.com/tracykteal/swc-workshop-example/blob/gh-pages/pages/img/filesystem.svg)
 
 We know that our current working directory `/users/nelle` is stored inside `/users`
 because `/users` is the first part of its name.
