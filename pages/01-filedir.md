@@ -3,7 +3,7 @@ layout: lesson
 root: ../..
 title: Files and Directories
 ---
-<div class="objectives" markdown="1">
+
 
 #### Objectives
 *   Explain the similarities and differences between a file and a directory.
@@ -13,7 +13,7 @@ title: Files and Directories
 *   Identify the actual command, flags, and filenames in a command-line call.
 *   Demonstrate the use of tab completion, and explain its advantages.
 
-</div>
+
 
 The part of the operating system responsible for managing files and directories
 is called the [file system](../../gloss.html#filesystem).
@@ -106,7 +106,7 @@ Inside that directory are several other directories:
 `tmp` (for temporary files that don't need to be stored long-term),
 and so on:
 
-<img src="img/filesystem.svg" alt="The Filesystem" />
+![Filesystem](img/filesystem.svg)
 
 We know that our current working directory `/users/nelle` is stored inside `/users`
 because `/users` is the first part of its name.
