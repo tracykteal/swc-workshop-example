@@ -2,13 +2,13 @@
 layout: slides
 title: Why Shell?
 ---
-<div class="objectives" markdown="1">
+
 
 #### Objectives
 *   Explain how the shell relates to the keyboard, the screen, the operating system, and users' programs.
 *   Explain when and why command-line interfaces should be used instead of graphical interfaces.
 
-</div>
+
 
 Nelle Nemo, a marine biologist,
 has just returned from a six-month survey of the
