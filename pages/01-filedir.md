@@ -1,5 +1,5 @@
 ---
-layout: slides
+layout: pages
 title: Files and Directories
 ---
 
