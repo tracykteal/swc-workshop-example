@@ -1,22 +1,26 @@
 ---
 layout: lesson
-title: Lesson Title
-keywords: ["some", "key terms", "in a list"]
+root: ../..
+title: The Unix Shell
 ---
-Paragraph of introductory material.
+The Unix shell has been around longer than most of its users have been alive.
+It has survived so long because it's a power tool
+that allows people to do complex things with just a few keystrokes.
+More importantly,
+it helps them combine existing programs in new ways
+and automate repetitive tasks
+so that they don't have to type the same things over and over again.
 
-> ## Prerequisites
->
-> A short paragraph describing what learners need to know
-> before tackling this lesson.
+<div class="toc" markdown="1">
 
-## Topics
+1.  [Introducing the Shell](00-intro.html)
+2.  [Files and Directories](01-filedir.html)
+3.  [Creating Things](02-create.html)
+4.  [Pipes and Filters](03-pipefilter.html)
+5.  [Loops](04-loop.html)
+6.  [Shell Scripts](05-script.html)
+7.  [Finding Things](06-find.html)
 
-* [Topic Title 1](01-one.html)
-* [Topic Title 2](02-two.html)
+[Reference](../ref/01-shell.html)
 
-## Other Resources
-
-* [Motivation](motivation.html)
-* [Reference Guide](reference.html)
-* [Instructor's Guide](instructors.html)
+</div>
